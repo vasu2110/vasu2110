@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vasu2110/vasu2110/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/vasu2110/vasu2110/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
