@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6OGt0Z3k1bXBzaHNsY3c0NjNmYWFydWRhZ3JlYWtyb2R1czczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6OGt0Z3k1bXBzaHNsY3c0NjNmYWFydWRhZ3JlYWtyb2R1czczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 ###
 
-<h4 align="left">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h4>
+<h4 align="right">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h4>
 
 ###
 
