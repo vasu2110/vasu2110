@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="	https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6OGt0Z3k1bXBzaHNsY3c0NjNmYWFydWRhZ3JlYWtyb2R1czczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6OGt0Z3k1bXBzaHNsY3c0NjNmYWFydWRhZ3JlYWtyb2R1czczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 ###
 
@@ -78,7 +78,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vasu2110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu2110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu2110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=vasu2110&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
