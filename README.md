@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left" style="margin-left: 10px;">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h4>
+<h4 align="left">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h4>
 
 ###
 
