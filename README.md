@@ -2,13 +2,41 @@
 
 ###
 
-<h5 align="center">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h5>
+<br clear="both">
+
+<img align="left" height="250" src="	https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6OGt0Z3k1bXBzaHNsY3c0NjNmYWFydWRhZ3JlYWtyb2R1czczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
+
+<h4 align="left">I'm a fourth-year Computer Science student at Manipal University Jaipur. With a keen interest in coding and development, I've spent years honing my skills to become a proficient web developer. My focus lies in building elegant, user-friendly websites that seamlessly blend design and functionality. The art of translating ideas into interactive online experiences is what truly drives me. Beyond my academic journey, I'm an avid explorer of new technologies, always excited to delve into emerging trends and innovations.</h4>
+
+###
+
+<br clear="both">
 
 <h2 align="left">Languages and Tools</h2>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -24,22 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
@@ -72,10 +84,6 @@
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/vasu2110/vasu2110/output/snake.svg" alt="Snake animation" />-->
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vasu2110.vasu2110&right_color=forestgreen&left_text=Profile%20Views"  />
 </div>
@@ -89,6 +97,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/vasuagarwal21/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=" https://mail.google.com/mail/u/?authuser=vasuagarwal476@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
